@@ -1,0 +1,7 @@
+C:\Users\Alunos\Desktop\andery\desafiosTecnicos\DesafiosTecnicos-Andery\desafio 2\desafioTEC2\desafioTEC2\obj\Debug\desafioTEC2.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\andery\desafiosTecnicos\DesafiosTecnicos-Andery\desafio 2\desafioTEC2\desafioTEC2\obj\Debug\desafioTEC2.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\andery\desafiosTecnicos\DesafiosTecnicos-Andery\desafio 2\desafioTEC2\desafioTEC2\bin\Debug\desafioTEC2.exe.config
+C:\Users\Alunos\Desktop\andery\desafiosTecnicos\DesafiosTecnicos-Andery\desafio 2\desafioTEC2\desafioTEC2\bin\Debug\desafioTEC2.exe
+C:\Users\Alunos\Desktop\andery\desafiosTecnicos\DesafiosTecnicos-Andery\desafio 2\desafioTEC2\desafioTEC2\bin\Debug\desafioTEC2.pdb
+C:\Users\Alunos\Desktop\andery\desafiosTecnicos\DesafiosTecnicos-Andery\desafio 2\desafioTEC2\desafioTEC2\obj\Debug\desafioTEC2.exe
+C:\Users\Alunos\Desktop\andery\desafiosTecnicos\DesafiosTecnicos-Andery\desafio 2\desafioTEC2\desafioTEC2\obj\Debug\desafioTEC2.pdb
